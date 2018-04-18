@@ -1,2 +1,2 @@
 # coursera-Applied-Data-Science-with-Python
-COursera
+Repo for Coursera Data Science Specialization
